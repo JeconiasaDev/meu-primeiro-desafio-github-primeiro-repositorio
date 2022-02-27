@@ -1,0 +1,2 @@
+o html é um marcador que serve para otimisar as paginas e unir varios outros programas como: 
+css -> que serve para dar proporcao nas divs
