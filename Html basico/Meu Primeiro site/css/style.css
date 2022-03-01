@@ -1,6 +1,8 @@
 body{
     background: #ccc;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
 
 }
 
@@ -32,6 +34,7 @@ a {
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: justify;
 }
 .post_image {
   margin-bottom: 15px;
